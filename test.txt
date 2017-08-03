@@ -1,0 +1,6 @@
+﻿-KIOSK ย่อ
+telepro 2 file >> jsp,query
+-coupon
+LoyaltyWebservice report>>> jrxml
+-password
+kiosk Flash >> campaign,Script Lov
