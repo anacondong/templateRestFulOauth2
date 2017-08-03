@@ -1,6 +1,10 @@
-﻿-KIOSK ย่อ
-telepro 2 file >> jsp,query
--coupon
-LoyaltyWebservice report>>> jrxml
--password
-kiosk Flash >> campaign,Script Lov
+-- Git branch
+git checkout -b create_new_page >>> move pointer to banch
+create sample file
+git brach
+git add .
+git commit -m "I just added "
+
+-- git merge
+git checkout master >>> move pointer to Master
+git merge create_new_page
