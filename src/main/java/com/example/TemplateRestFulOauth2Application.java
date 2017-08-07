@@ -21,6 +21,7 @@ public class TemplateRestFulOauth2Application {
 
 	// http://localhost:8081/templateRestFulOauth2/oauth/token?grant_type=password&username=user&password=user
 	// http://localhost:8081/templateRestFulOauth2/persons?access_token=d6c3dfe9-bdf2-4978-b008-1f1ffbb78ad3
+	// http://localhost:8081/templateRestFulOauth2/oauth/token?grant_type=refresh_token&refresh_token=dfea499c-0eb8-4394-8c25-a7af5b1aa3d9
 	 
 	// admin
 	// http://localhost:9000/admin/metrics
