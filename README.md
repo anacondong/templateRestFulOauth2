@@ -15,9 +15,15 @@ OR
 $mvn spring-boot:run<br/>
 
 Open PostMan APP
+<<<<<<< HEAD
+POST >> http://localhost:8081/templateRestFulOauth2/oauth/token?grant_type=password&username=user&password=user
+username:root
+password:q
+=======
 POST >> http://localhost:8081/templateRestFulOauth2/oauth/token?grant_type=password&username=user&password=user<br/>
 username:q<br/>
 password:q<br/>
+>>>>>>> master
 
 And then <br/>
 GET >> http://localhost:8081/templateRestFulOauth2/private?access_token=72f349e2-0753-4e91-948b-e37c033394be<br/>
